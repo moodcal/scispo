@@ -16,12 +16,12 @@ title: 运动视频播放器
 
 ## App 截图
 
-![list](/assets/images/list.jpg)
+![list](/assets/images/list.jpg){:.img-center}
 
-![single](/assets/images/single.jpg)
+![single](/assets/images/single.jpg){:.img-center}
 
-![compare](/assets/images/compare.jpg)
+![compare](/assets/images/compare.jpg){:.img-center}
 
-![single_lanscape](/assets/images/single_lanscape.jpg)
+![single_lanscape](/assets/images/single_lanscape.jpg){:.img-center}
 
-![compare_lanscape](/assets/images/compare_lanscape.jpg)
+![compare_lanscape](/assets/images/compare_lanscape.jpg){:.img-center}

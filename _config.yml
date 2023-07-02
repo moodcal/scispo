@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+github_pages:
+  footer: false
+  is_project_page: false
