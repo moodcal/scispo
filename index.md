@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Website
+title: Sports video player
 ---
 
 # Welcome to my website!

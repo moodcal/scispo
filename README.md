@@ -1,2 +1,2 @@
 # scispo
-science sports website
+A simple video player for sports lover
