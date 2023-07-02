@@ -16,12 +16,17 @@ title: 运动视频播放器
 
 ## App 截图
 
+## 视频列表
 ![list](/assets/images/list.jpg){:.img-center}
 
+## 播放单个视频
 ![single](/assets/images/single.jpg){:.img-center}
 
+## 多个视频对比
 ![compare](/assets/images/compare.jpg){:.img-center}
 
+## 横屏播放横拍视频
 ![single_lanscape](/assets/images/single_lanscape.jpg){:.img-center}
 
+## 横屏比较多个竖拍视频
 ![compare_lanscape](/assets/images/compare_lanscape.jpg){:.img-center}

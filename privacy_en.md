@@ -1,6 +1,6 @@
 ---
 layout: default
-title: privacy
+title: Privacy Policy
 ---
 
 ## This app is an offline app, does not collect any user data.
